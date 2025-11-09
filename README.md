@@ -2,7 +2,8 @@
 -  👀 I’m interested in Tech.
 -  🌱 I’m currently learning Django for Backend.
 -  💞️ I’m looking to collaborate with anyone. So we can learn and do some crazy stuff togather.
--  📫 How to reach me. You can message me on Insta or X.
+-  📫 How to reach me. You can message me on Linkedin or Email.
+
 
 
 
